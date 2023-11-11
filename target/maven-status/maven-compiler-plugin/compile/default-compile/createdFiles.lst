@@ -1,0 +1,14 @@
+Config\Conexion.class
+Modelo\ClienteDAO.class
+Modelo\Venta.class
+Modelo\EmpleadoDAO.class
+Modelo\Empleado.class
+Modelo\ProductoDAO.class
+Modelo\Cliente.class
+Modelo\VentaDAO.class
+com\mycompany\sistemasventasweb\resources\JavaEE8Resource.class
+com\mycompany\sistemasventasweb\JAXRSConfiguration.class
+Config\GenerarSerie.class
+Controlador\Validar1.class
+Controlador\Controlador.class
+Modelo\Producto.class
